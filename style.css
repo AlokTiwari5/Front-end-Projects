@@ -28,7 +28,7 @@ body {
   transform-style: preserve-3d;
 }
 
-.background, .foreground{
+.background{
  
   position: absolute;
   height: 100%;
